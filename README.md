@@ -1,3 +1,5 @@
+> **English summary** — Final project for the Generative AI course (Master's in Applied AI, Universidad Icesi), by Juan Diego Ramírez and Mike Martínez. Extends the [RAG assistant](https://github.com/jdramirezzu/ecomarket-rag-assistant) with an AI agent that automates product returns: it checks return eligibility, generates the label and answers customers. Built with LangChain, ChromaDB and OpenAI, with a Streamlit interface and pytest tests. The original documentation below is in Spanish.
+
 # Proyecto Final: Agente de IA para devoluciones en EcoMarket
 
 Entrega final de la materia de Inteligencia Artificial Generativa. Autores: Juan Diego Ramírez y Mike Martínez.
